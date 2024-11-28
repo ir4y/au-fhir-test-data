@@ -27,11 +27,6 @@
   "requester": {
     "reference": "PractitionerRole/cardiologist-felmingham-emma"
   },
-  "reasonReference": [
-    {
-      "reference": "Condition/aci"
-    }
-  ],
   "dosageInstruction": [
     {
       "text": "1 tablet daily",
